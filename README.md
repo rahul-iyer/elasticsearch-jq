@@ -1,3 +1,3 @@
 # elasticsearch-jq
 
-Elasticsearch autocomplete
+Elasticsearch autocomplete with jquery ajax
